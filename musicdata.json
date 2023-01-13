@@ -1,0 +1,64 @@
+[
+    {   "name": "Dynamite! Feat. ELO the Cosmic Eye",
+        "artist": "The Roots",
+        "producer": "Prod. The Roots & J Dilla",
+        "releasedate": "1999",
+        "genre": "Rap"
+    },
+    {
+        "name": "You Got Me, Feat. Erykah Badu & Eve",
+        "artist": "The Roots",
+        "producer": "Prod. The Roots & J Dilla",
+        "releasedate": "1998",
+        "genre": "Rap"
+    },
+    {
+        "name": "On & On",
+        "artist": "Erykah Badu",
+        "producer": "Prod.JaBorn Jamal & Bob Power",
+        "releasedate": "1997",
+        "genre": "Soul/Rnb"
+    },
+    {
+        "name": "Didnt Cha Know",
+        "artist": "Erykah Badu",
+        "producer": "Prod. J Dilla",
+        "releasedate": "2000",
+        "genre": "Soul/Rnb"
+    },
+    {
+        "name": "Film Noir",
+        "artist": "Scott W. Hallgren",
+        "producer": "N/A",
+        "releasedate": "2010",
+        "genre": "Jazz"
+    },
+    {
+        "name": "Générique",
+        "artist": "Miles Davis",
+        "producer": "N/A",
+        "releasedate": "1957",
+        "genre": "Jazz"
+    },
+    {
+        "name": "Nuit sur les Champs Eysees - Take 2",
+        "artist": "Miles Davis",
+        "producer": "N/A",
+        "releasedate": "1958",
+        "genre": "Jazz"
+    },
+    {
+        "name": "All Along the Watchtower",
+        "artist": "Jimi Hendrix",
+        "producer": "N/A",
+        "releasedate": "1967",
+        "genre": "Rock"
+    },
+    {
+        "name": "Hey Joe",
+        "artist": "Jimi Hendrix",
+        "producer": "N/A",
+        "releasedate": "1966",
+        "genre": "Rock"
+    }
+]
